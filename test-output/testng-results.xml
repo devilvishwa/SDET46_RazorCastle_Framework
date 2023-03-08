@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="4" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-02-27T12:52:06 IST" name="Suite" finished-at="2023-02-27T12:52:06 IST" duration-ms="113">
+    <groups>
+      <group name="minor">
+        <method signature="practice.test3()[pri:0, instance:TestNg_Practice.practice@783a467b]" name="test3" class="TestNg_Practice.practice"/>
+      </group> <!-- minor -->
+      <group name="regression">
+        <method signature="practice.test3()[pri:0, instance:TestNg_Practice.practice@783a467b]" name="test3" class="TestNg_Practice.practice"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="practice.test()[pri:0, instance:TestNg_Practice.practice@783a467b]" name="test" class="TestNg_Practice.practice"/>
+      </group> <!-- sanity -->
+    </groups>
+    <test started-at="2023-02-27T12:52:06 IST" name="Test" finished-at="2023-02-27T12:52:06 IST" duration-ms="113">
+      <class name="TestNg_Practice.practice">
+        <test-method signature="test()[pri:0, instance:TestNg_Practice.practice@783a467b]" started-at="2023-02-27T12:52:06 IST" name="test" finished-at="2023-02-27T12:52:06 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method signature="test3()[pri:0, instance:TestNg_Practice.practice@783a467b]" started-at="2023-02-27T12:52:06 IST" name="test3" finished-at="2023-02-27T12:52:06 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+      </class> <!-- TestNg_Practice.practice -->
+      <class name="TestNg_Practice.practice2">
+        <test-method is-config="true" signature="test6()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test6" finished-at="2023-02-27T12:52:06 IST" duration-ms="19" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test6 -->
+        <test-method is-config="true" signature="test7()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test7" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test7 -->
+        <test-method is-config="true" signature="test8()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test8" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test8 -->
+        <test-method is-config="true" signature="test9()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test9" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test9 -->
+        <test-method signature="test5()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test5" finished-at="2023-02-27T12:52:06 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test5 -->
+        <test-method is-config="true" signature="test1()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test1" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+        <test-method is-config="true" signature="test2()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test2" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test2 -->
+        <test-method is-config="true" signature="test3()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test3" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test3 -->
+        <test-method is-config="true" signature="test4()[pri:0, instance:TestNg_Practice.practice2@f78a47e]" started-at="2023-02-27T12:52:06 IST" name="test4" finished-at="2023-02-27T12:52:06 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test4 -->
+      </class> <!-- TestNg_Practice.practice2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
